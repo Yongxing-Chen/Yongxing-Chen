@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Yongxing-Chen
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Machine Learning and Data Science at University of California San Diego (master)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I will be an incoming Data Engineer at ServiceNow
+- 📫 E-mail: y28xchen@gmail.com
 
 <!---
 Yongxing-Chen/Yongxing-Chen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
