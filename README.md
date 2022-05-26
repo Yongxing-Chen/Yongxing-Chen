@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yongxing-Chen
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Machine Learning and Data Science at University of California San Diego (master)
-- 💞️ I will be an incoming Data Engineer at ServiceNow
+- 💞️ I will be an incoming Data Engineer Intern at ServiceNow
 - 📫 E-mail: y28xchen@gmail.com
 
 <!---
