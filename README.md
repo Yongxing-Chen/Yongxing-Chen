@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yongxing Chen
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning and Data Science at University of California San Diego (master)
-- 💞️ I am a 2022 summer Data Engineer Intern at ServiceNow
+- 🌱 I have a master degree on Machine Learning and Data Science from University of California San Diego
+- 💞️ I am a Data Engineer at ServiceNow
 - 📫 E-mail: y28xchen@gmail.com
 
 <!---
